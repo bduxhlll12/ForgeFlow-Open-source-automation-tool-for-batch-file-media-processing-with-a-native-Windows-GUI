@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "action": "video_transcode",
+  "options": {
+    "codec": "libx264"
+  }
+}

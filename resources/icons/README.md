@@ -1,0 +1,1 @@
+Place .ico/.png icon assets here (app icon, toolbar icons).

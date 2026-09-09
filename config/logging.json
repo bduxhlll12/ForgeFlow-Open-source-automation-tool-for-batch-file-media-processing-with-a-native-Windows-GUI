@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "level": "INFO",
+  "max_bytes": 1048576,
+  "backup_count": 3
+}
